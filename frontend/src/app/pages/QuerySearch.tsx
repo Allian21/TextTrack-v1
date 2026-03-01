@@ -39,7 +39,7 @@ export function QuerySearch() {
             The AI detection model is still being trained. Once integrated, matched objects from your footage will appear here with tracking IDs, confidence scores, camera info, and frame timelines.
           </p>
           <p className="text-xs text-gray-600 mt-4 px-4 py-2 rounded-lg bg-white/5 border border-white/10">
-            YOLOv8 · CLIP · ByteTrack — model integration in progress
+            YOLOv26 · CLIP · ByteTrack — model integration in progress
           </p>
         </motion.div>
       </div>
