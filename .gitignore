@@ -1,0 +1,34 @@
+# Dependencies
+frontend/node_modules/
+backend/venv/
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# Environment variables
+.env
+frontend/.env
+frontend/.env.local
+backend/.env
+
+# Vite cache
+frontend/.vite/
+
+# Python cache (for your backend later)
+__pycache__/
+*.pyc
+*.pyo
+backend/__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
